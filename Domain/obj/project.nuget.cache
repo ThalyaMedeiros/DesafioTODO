@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "0bLk3R3bMR4Z18m+vFW0N6vBJHyrZZwuvs8cc4izPpBmkMm8Q/ukF5v5Sd70pUGrrf/KKyB5kzWRGo1yZVyL6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thaly\\source\\repos\\DesafioTODO\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thaly\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\thaly\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\thaly\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\thaly\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\thaly\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\thaly\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.7.0\\system.reflection.emit.ilgeneration.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\thaly\source\repos\DesafioTODO\Infra\bin\Debug\netstandard2.1\Infra.deps.json
+C:\Users\thaly\source\repos\DesafioTODO\Infra\bin\Debug\netstandard2.1\Infra.dll
+C:\Users\thaly\source\repos\DesafioTODO\Infra\bin\Debug\netstandard2.1\Infra.pdb
+C:\Users\thaly\source\repos\DesafioTODO\Infra\bin\Debug\netstandard2.1\Domain.dll
+C:\Users\thaly\source\repos\DesafioTODO\Infra\bin\Debug\netstandard2.1\Domain.pdb
+C:\Users\thaly\source\repos\DesafioTODO\Infra\obj\Debug\netstandard2.1\Infra.csprojAssemblyReference.cache
+C:\Users\thaly\source\repos\DesafioTODO\Infra\obj\Debug\netstandard2.1\Infra.AssemblyInfoInputs.cache
+C:\Users\thaly\source\repos\DesafioTODO\Infra\obj\Debug\netstandard2.1\Infra.AssemblyInfo.cs
+C:\Users\thaly\source\repos\DesafioTODO\Infra\obj\Debug\netstandard2.1\Infra.csproj.CoreCompileInputs.cache
+C:\Users\thaly\source\repos\DesafioTODO\Infra\obj\Debug\netstandard2.1\Infra.csproj.CopyComplete
+C:\Users\thaly\source\repos\DesafioTODO\Infra\obj\Debug\netstandard2.1\Infra.dll
+C:\Users\thaly\source\repos\DesafioTODO\Infra\obj\Debug\netstandard2.1\Infra.pdb
