@@ -107,7 +107,6 @@ namespace Api.Controller
         [Route("ExcluirItem")]
         public async Task<IActionResult> ExcluirItem(string id)
         {
-            //Pegar o item
             var item = await _itensRepository.ObterPorId(id);
             if(item == null) { BadRequest("Item não existe."); }
            

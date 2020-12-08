@@ -1,10 +1,4 @@
-﻿using Microsoft.AspNet.Identity.EntityFramework;
-using System;
-using System.Collections.Generic;
-using System.Text;
-using System.Text.RegularExpressions;
-
-namespace Domain.Context.Entities
+﻿namespace Domain.Context.Entities
 {
     public class Usuarios : Entity
     {
