@@ -6,9 +6,9 @@ namespace Domain.Context.Entities
     {
         public Entity()
         {
-            Id = Guid.NewGuid();
+            Id = Guid.NewGuid().ToString().Replace("-","").Substring(0,8);
         }
 
-        public Guid Id { get; private set; }
+        public string Id { get; private set; }
     }
 }

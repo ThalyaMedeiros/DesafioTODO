@@ -8,7 +8,13 @@ namespace Domain.Repositories
 {
     public interface IUsuariosRepository
     {
-        Task<IEnumerable<Usuarios>> ObterTodos();
+        Task<List<Usuarios>> ObterTodos();
         Task CriarUsuario(Usuarios usuarios);
+        Task<Usuarios> LoginUsuario(string email, string senha);
+        Task<string> ObterFuncaoIdPorUsuarioId(string usuarioId);
+        Task<Usuarios> ObterPorId(string usuarioId);
+        Task<Usuarios> ObterPorEmail(string email);
+
+        Task<bool> EmailExistente(string email);
     }
 }
