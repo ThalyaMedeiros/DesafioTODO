@@ -84,15 +84,12 @@ namespace Domain.Context.Entities
 
         public void ConcluirItem()
         {
-            //DataConclusao, Status
             Status = EStatusItens.Concluido;
             DataConclusao = DateTime.Now;
         }
 
         public void EditarItem(string descricao, DateTime dataVencimento)
         {
-            //Descricao, DataVencimento, Status, DataAtualização
-            //Não posso editar um item concluido
             AtualizarItemConcluido();
 
             Descricao = descricao;
@@ -118,8 +115,6 @@ namespace Domain.Context.Entities
             {
                 this.Status = EStatusItens.Atrasado;
             }
-
-            
         }
 
     }

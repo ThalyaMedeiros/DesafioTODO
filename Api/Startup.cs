@@ -41,7 +41,6 @@ namespace Api
             services.AddResponseCompression();
 
             services.AddDbContext<DataContext>(opt => opt.UseInMemoryDatabase("Database"));
-            //services.AddDbContext<DataContext>(opt => opt.UseSqlServer(Configuration.GetConnectionString("connectionString")));
             services.AddScoped<DataContext, DataContext>();
 
             services.AddScoped<IItensService, ItensService>();
@@ -146,8 +145,6 @@ namespace Api
             {
                 app.UseDeveloperExceptionPage();
             }
-
-            //app.UseMvc();
 
             app.UseResponseCompression();
 

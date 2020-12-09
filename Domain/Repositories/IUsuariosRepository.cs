@@ -14,7 +14,6 @@ namespace Domain.Repositories
         Task<string> ObterFuncaoIdPorUsuarioId(string usuarioId);
         Task<Usuarios> ObterPorId(string usuarioId);
         Task<Usuarios> ObterPorEmail(string email);
-
         Task<bool> EmailExistente(string email);
     }
 }
